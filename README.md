@@ -1,4 +1,4 @@
-# thedeadfish59的备份
+# 从[thedeadfish59](https://github.com/thedeadfish59/Dell_Inspiron_5537-Hackintosh)的备份
 
 # OpenCore Hackintosh guide for Dell Inspiron 15 5537
 
