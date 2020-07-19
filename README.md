@@ -1,3 +1,5 @@
+# thedeadfish59的备份
+
 # OpenCore Hackintosh guide for Dell Inspiron 15 5537
 
 ### EFI Bootloader files to boot macOS Catalina using OpenCore on Dell Inspiron 5537
@@ -64,4 +66,4 @@ A. No
 
 
 
-### Guide by �thedeadfish59, cherrypicked resources from various sites 
+### Guide by ©thedeadfish59, cherrypicked resources from various sites 
